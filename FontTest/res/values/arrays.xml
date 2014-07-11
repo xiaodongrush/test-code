@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="font_names">
+        <item>默认</item>
+        <item>汉仪篆书繁体</item>
+        <item>汉仪瘦金简体</item>
+        <item>汉仪南宫简体</item>
+        <item>方正兰亭黑体</item>
+    </string-array>
+
+</resources>
